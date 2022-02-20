@@ -1,0 +1,11 @@
+{
+    "name": "1",
+    "description": "A beautiful Costa Rican sunset!",
+    "image": "https://ipfs.io/ipfs/QmcxxCHM94KqRJUsr9QHyWorQSxuYiAYhxJhb2smtXjiiP?filename=1.jpg",
+    "attributes": [
+        {
+            "trait_type": "beauty",
+            "value": 100
+        }
+    ]
+}
