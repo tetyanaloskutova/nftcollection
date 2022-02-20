@@ -1,0 +1,11 @@
+{
+    "name": "2",
+    "description": "Horses on a beach at sunset!",
+    "image": "https://ipfs.io/ipfs/QmRzna2vjwWHxF77FjcuhpT3wDNxDkWYJRYfqgRnReSypz?filename=2.jpg",
+    "attributes": [
+        {
+            "trait_type": "beauty",
+            "value": 100
+        }
+    ]
+}
