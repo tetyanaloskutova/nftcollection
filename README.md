@@ -1,4 +1,4 @@
-# nftcollectio
+# nftcollection
 
 <br/>\
 Basic code to create collectibles
